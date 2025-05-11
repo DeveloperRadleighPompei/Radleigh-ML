@@ -2,7 +2,7 @@
 All my machine learning projects!
 
 # How to run
-1. Open google colab (Google Colab)
+1. Open google colab ([Google Colab](https://colab.research.google.com/))
 2. Click new notebook
 3. Paste code into top cell
 4. Click the down arrow in the top right corner
