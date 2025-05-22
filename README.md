@@ -14,3 +14,5 @@ all libraries are pre installed, t4 gpu will speed up training alot!
 Neural Network to predict California houing prices.
 # Project 2 - Ames Housing dataset
 Neural Network to predict Ames houing prices
+# CIFAR10-Resnet18 - Image recognition
+Achieved just over 90% accuracy
