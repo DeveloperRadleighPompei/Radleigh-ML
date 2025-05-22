@@ -156,8 +156,6 @@ for epoch in range(num_epochs):
     print(f"Epoch [{epoch+1}/{num_epochs}] "
           f"Train Loss: {train_loss:.4f}, Train Acc: {train_accuracy:.4f} ")
 
-torch.save(model.state_dict(), "best_model.pth")
-
 torch.save(model.state_dict(), "CIFAR10-resnet18.pth")
 
 model.load_state_dict(torch.load("CIFAR10-resnet18.pth"))
